@@ -1,0 +1,15 @@
+D:\Python\trilha_dotnet\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.exe
+D:\Python\trilha_dotnet\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.deps.json
+D:\Python\trilha_dotnet\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.runtimeconfig.json
+D:\Python\trilha_dotnet\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.dll
+D:\Python\trilha_dotnet\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.pdb
+D:\Python\trilha_dotnet\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python\trilha_dotnet\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.AssemblyInfoInputs.cache
+D:\Python\trilha_dotnet\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.AssemblyInfo.cs
+D:\Python\trilha_dotnet\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.csproj.CoreCompileInputs.cache
+D:\Python\trilha_dotnet\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.sourcelink.json
+D:\Python\trilha_dotnet\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.dll
+D:\Python\trilha_dotnet\SistemaHospedagem\obj\Debug\net9.0\refint\SistemaHospedagem.dll
+D:\Python\trilha_dotnet\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.pdb
+D:\Python\trilha_dotnet\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.genruntimeconfig.cache
+D:\Python\trilha_dotnet\SistemaHospedagem\obj\Debug\net9.0\ref\SistemaHospedagem.dll
