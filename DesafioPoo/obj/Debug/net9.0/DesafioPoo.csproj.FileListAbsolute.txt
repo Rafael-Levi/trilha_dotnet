@@ -1,0 +1,15 @@
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\bin\Debug\net9.0\DesafioPoo.exe
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\bin\Debug\net9.0\DesafioPoo.deps.json
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\bin\Debug\net9.0\DesafioPoo.runtimeconfig.json
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\bin\Debug\net9.0\DesafioPoo.dll
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\bin\Debug\net9.0\DesafioPoo.pdb
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\obj\Debug\net9.0\DesafioPoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\obj\Debug\net9.0\DesafioPoo.AssemblyInfoInputs.cache
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\obj\Debug\net9.0\DesafioPoo.AssemblyInfo.cs
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\obj\Debug\net9.0\DesafioPoo.csproj.CoreCompileInputs.cache
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\obj\Debug\net9.0\DesafioPoo.sourcelink.json
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\obj\Debug\net9.0\DesafioPoo.dll
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\obj\Debug\net9.0\refint\DesafioPoo.dll
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\obj\Debug\net9.0\DesafioPoo.pdb
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\obj\Debug\net9.0\DesafioPoo.genruntimeconfig.cache
+D:\Python\Jornada\DIO\DOTNET\DesafioPoo\obj\Debug\net9.0\ref\DesafioPoo.dll
